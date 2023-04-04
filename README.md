@@ -1,4 +1,4 @@
-# math-helper-exercise-template
+# math-helper-exercise
 
 Write a MathHelper class that contains two methods: Factorial and Fibonacci. The Factorial method takes an integer value as input and returns its factorial value. The Fibonacci method takes an integer value as input and returns its corresponding Fibonacci number.
 
